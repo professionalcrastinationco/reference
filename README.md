@@ -1,3 +1,4 @@
-# REFENCE
+# REFERENCE
 
-## WINDOWS https://github.com/professionalcrastinationco/reference/blob/main/windows.md
+## WINDOWS
+ - [Windows Ports](https://github.com/professionalcrastinationco/reference/blob/main/windows.md)
